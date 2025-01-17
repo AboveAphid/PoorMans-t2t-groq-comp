@@ -1,0 +1,7 @@
+id: "poor_mans_groq_component"
+name: "Poor Man's T2T Groq Component"
+type: "t2t"
+is_windows_compatible: true
+is_unix_compatible: true
+windows_run_script: "start.bat"
+unix_run_script: "start.sh"
