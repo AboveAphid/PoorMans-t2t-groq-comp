@@ -1,7 +1,14 @@
 # Poor Man's Groq T2T Component
 
 ## What is this for?
-Start your poor man's journey of free T2T apis for JAISON!
+*Start your poor man's journey of free T2T apis for JAISON!*
+
+You tired of OpenAI's ***evil*** pricing of a couple cents per request??
+
+***Well no more I tell you!*** 
+
+With Groq's free, fresh, and *slightly outdated models* we can get a free T2T api
+that doesn't need to take up all your non-existent processing power!
 
 You can visit Groq's docs here: 
 https://console.groq.com/docs/overview
@@ -39,7 +46,7 @@ python ./src/main.py --port=5000
 If it runs, *everything should be swell*!
 
 ## Configuration
-Check setup for what you need in your .env!
+Check Setup for what you need in your .env!
 
 ## Related stuff
 Project J.A.I.son: https://github.com/limitcantcode/jaison-core
