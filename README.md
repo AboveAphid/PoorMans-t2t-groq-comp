@@ -13,6 +13,9 @@ that doesn't need to take up all your non-existent processing power!
 You can visit Groq's docs here: 
 https://console.groq.com/docs/overview
 
+> [!NOTE]
+> Keep in mind Groq does not support finetuning models like OpenAI
+
 ## Setup
 
 Windows
